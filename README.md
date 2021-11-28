@@ -1,4 +1,4 @@
-# Realtime Obejct Recognition
+# Realtime Obejct Recognition Using YOLO and SSD
 
 Realtime object recognition using the OpenCV 3.3 dnn module + pretrained MobileNetSSD caffemodel.
 
